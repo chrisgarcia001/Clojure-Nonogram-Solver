@@ -80,7 +80,7 @@ This results in the following drawing:
 
 ### License
 
-   Copyright {2014} {Chris Garcia}
+   Copyright (c) 2014 Chris Garcia
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
