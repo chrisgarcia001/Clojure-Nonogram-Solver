@@ -1,5 +1,5 @@
 ;; ----------------------------------------------------------------------------------------------------------
-;; Author: Chris Garcia (cgarcia@umw.edu)
+;; Author: C. Garcia
 ;; About: This is a nonogram-solver, and is a solution to P98 puzzle on 99 Prolog Problems:
 ;;        http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
 ;;        More can be read about nonograms at http://en.wikipedia.org/wiki/Nonogram.
